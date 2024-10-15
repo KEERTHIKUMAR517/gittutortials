@@ -1,4 +1,4 @@
-# Project Title
+# Project Title - Git Tuts
 
 Simple overview of use/purpose.
 
